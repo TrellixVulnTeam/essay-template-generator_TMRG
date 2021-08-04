@@ -1,8 +1,6 @@
 # essay-template-generator
 I spent a night and a half making an app to build a 3,000 word essay template because I didn't want to manually copy and paste a sample paragraph 30 times.
 
-Even worse, I wrote 50 LINES OF CODE only to realize all I needed were three lines.
-
 This is very brute force so it's not pretty but it works!
 
 Try it out yourself by following these instructions:
@@ -27,4 +25,3 @@ To deactive the virtual environment, type: `deactivate`
 - templates/get_essay.html = the resulting essay template
 - paper_generator.py = the Flask app file
 - test.py = tester python file
-- 50_lines_of_code_when_i_only_needed_three.py = all that work for nothing
